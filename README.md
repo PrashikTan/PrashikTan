@@ -1,18 +1,76 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>- 🔭 Currently building: Full-stack projects using **Spring Boot + React + MySQL**<br>- 💼 Actively looking for: **Java Backend / Full Stack Developer roles**<br>- 🤝 Open to collaborate on: Real-world backend systems & scalable APIs<br>- 🌱 Currently learning: **Spring Boot Microservices, System Design, React**<br>- 💬 Ask me about: Java, JDBC, Hibernate, REST APIs, SQL<br>- ⚡ Fun fact: I focus more on **practical implementation than just theory**
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prashik-tantarpale/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashiktantarpale441@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrashikTan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PrashikTan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrashikTan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hi 👋, I'm Prashik</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Full Stack (React)</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PrashikTan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+* 🔭 Currently building: **Production-level applications using Spring Boot + React + MySQL**
+* 💼 Actively looking for: **Java Backend / Full Stack Developer roles**
+* 🌱 Currently learning: **Microservices, System Design, Spring Security**
+* 💬 Ask me about: **Java, Spring Boot, Hibernate, REST APIs, SQL**
+* ⚡ Focus: **Strong backend fundamentals + real-world project implementation**
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**
+Java, Spring Boot, Hibernate, JDBC
+
+**Frontend:**
+React, JavaScript, HTML, CSS
+
+**Database:**
+MySQL
+
+**Tools & Platforms:**
+Git, GitHub, Postman, STS
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Amazon Clone (Full Stack)
+
+* Built scalable REST APIs using Spring Boot
+* Implemented authentication and authorization
+* Integrated React frontend with backend APIs
+* Managed products, cart, orders, and checkout flow
+
+---
+
+### 🐾 Furrever Home (Full Stack Application)
+
+* Developed backend APIs for pet adoption platform
+* Designed layered architecture using Spring Boot
+* Frontend built with React for user interaction
+* Database integration with MySQL
+
+---
+
+### 🏪 eShop Backend (Spring Boot)
+
+* Developed REST APIs for e-commerce operations
+* Implemented CRUD operations with Hibernate/JPA
+* Structured backend using clean architecture principles
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashikTan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashikTan&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/prashik-tantarpale/
+* 💻 GitHub: https://github.com/PrashikTan
+
+---
+
+⭐ *Focused on building scalable backend systems and becoming a strong Java developer.*
